@@ -1,0 +1,135 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "products": [
+    {
+      "name": "Trousers",
+      "id": 3,
+      "img": "https://static.zara.net/photos///2022/V/0/1/p/1608/532/636/2/w/1126/1608532636_1_1_1.jpg?ts=1647422214604",
+      "price": 70,
+      "count": 5,
+      "discount": "",
+      "cat": "jeans",
+      "description": "High-waist trousers with side pockets, false welt back pockets, front visible dart detailing, a zip fly and a top button fastening."
+    },
+    {
+      "name": "Trousers",
+      "id": 11,
+      "img": "https://static.zara.net/photos///2022/V/0/1/p/4387/630/712/2/w/750/4387630712_1_1_1.jpg?ts=1643813546779",
+      "price": 70,
+      "count": 5,
+      "discount": "",
+      "cat": "jeans",
+      "color": "black",
+      "description": "High-waist trousers with side pockets, false welt back pockets, front visible dart detailing, a zip fly and a top button fastening."
+    },
+    {
+      "name": "Trousers",
+      "id": 13,
+      "img": "https://static.zara.net/photos///2022/V/0/1/p/4387/630/712/2/w/750/4387630712_1_1_1.jpg?ts=1643813546779",
+      "price": 70,
+      "count": 5,
+      "discount": "",
+      "cat": "jeans",
+      "color": "black",
+      "size": "M",
+      "description": "High-waist trousers with side pockets, false welt back pockets, front visible dart detailing, a zip fly and a top button fastening."
+    },
+    {
+      "name": "Trousers",
+      "img": "https://static.zara.net/photos///2022/V/0/1/p/4387/630/712/2/w/750/4387630712_1_1_1.jpg?ts=1643813546779",
+      "price": 70,
+      "count": 5,
+      "discount": "",
+      "id": 14,
+      "description": "High-waist trousers with side pockets, false welt back pockets, front visible dart detailing, a zip fly and a top button fastening."
+    }
+  ],
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$vhF7fCcQc3PRJb8zGBK5qe29j6g5KTpbu8tiANZv3Tn/3.vllUh96",
+      "name": "admin",
+      "id": 1
+    },
+    {
+      "email": "adminka@gmail.com",
+      "password": "$2a$10$rssQWHY3Fl08aGtM0j46teFzbFcy5Lrxti8bmyS7LejijirwVbVXK",
+      "name": "adminka",
+      "id": 2
+    },
+    {
+      "email": "lalashka@gmail.com",
+      "password": "$2a$10$BBVvXXC7LOaZJQVDWEufy.HlYNH74UIVgbf0LxOTUWVABWC05rOPe",
+      "name": "lala",
+      "lastname": "huseynova",
+      "id": 3
+    },
+    {
+      "email": "lalash@gmail.com",
+      "password": "$2a$10$mEdcq.ys/1pHIMQLzwdUc.kIch19k1xSFJtXY4kUuF6oyoN9aQrhy",
+      "name": "lala",
+      "lastname": "huseynova",
+      "id": 4
+    },
+    {
+      "email": "lali@gmail.com",
+      "password": "$2a$10$6NvPN/hTTWEN93wMGtmbh.uZRYw6ligz.OkGduW94Kglj3dkItfdG",
+      "name": "lali",
+      "lastname": "huseyn",
+      "id": 5
+    },
+    {
+      "email": "huseynova@gmail.com",
+      "password": "$2a$10$bdY2KhdQuN7QIU4IlKUGOesBPFRTCESkqpBCgEHNTYOsvHZFGKPBG",
+      "name": "lala",
+      "lastname": "huseynova",
+      "id": 6
+    },
+    {
+      "email": "lala98@gmail.com",
+      "password": "$2a$10$WDe2RfinZtslB7KnoWd8eOvWRqr6rQo984mC5sw/qUxslw8frgX.O",
+      "name": "lala",
+      "lastname": "lalochka",
+      "id": 7
+    },
+    {
+      "email": "some@gmail.com",
+      "password": "$2a$10$yYS3oNQt4ulzT.my53OV7O7aw7beDnJoxFUQZDwqHLn4Etc./35Pm",
+      "name": "someone",
+      "lastname": "some",
+      "id": 8
+    },
+    {
+      "email": "adminperson@gmail.com",
+      "password": "$2a$10$DGYbs4mCoUDhmybJESt54O06vheh1051loxY6JSbOiB.LqkYeQygW",
+      "name": "adminperson",
+      "lastname": "some",
+      "admin": true,
+      "id": 9
+    },
+    {
+      "email": "adminlala@gmail.com",
+      "password": "$2a$10$csqtpi7TyOSzM0Wm5A/MsOp9W6NwONJURYo3jGAPePjwgznz6lt9q",
+      "name": "Lala",
+      "lastname": "some",
+      "admin": true,
+      "id": 10
+    }
+  ]
+}

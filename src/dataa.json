@@ -1,0 +1,87 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "products": [
+    {
+      "name": "Blouse",
+      "img": "https://images.unsplash.com/photo-1591382010022-bb9dc3d368ce?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1275&q=80",
+      "price": "40$",
+      "count": "3",
+      "discount": ""
+    },
+    {
+      "name": "Skirt",
+      "img": "https://static.zara.net/photos///2022/V/0/1/p/4387/063/450/2/w/750/4387063450_1_1_1.jpg?ts=1647857914009",
+      "price": "70$",
+      "count": "20",
+      "discount": ""
+    },
+    {
+      "name": "Dress",
+      "img": "https://static.zara.net/photos///2022/V/0/1/p/2833/210/622/2/w/750/2833210622_1_1_1.jpg?ts=1647604652709",
+      "price": "100$",
+      "count": "2",
+      "discount": "20%"
+    },
+    {
+      "name": "Trousers",
+      "img": "https://static.zara.net/photos///2022/V/0/1/p/2731/043/403/2/w/750/2731043403_6_1_1.jpg?ts=1643901913767",
+      "price": "70$",
+      "count": "5",
+      "discount": ""
+    },
+    {
+      "name": "Trousers",
+      "id": 3,
+      "img": "https://static.zara.net/photos///2022/V/0/1/p/1971/024/620/17/w/1126/1971024620_1_1_1.jpg?ts=1647952574865",
+      "price": "70$",
+      "count": "5",
+      "discount": "",
+      "cat": "jeans"
+    },
+    {
+      "name": "Trousers",
+      "id": 11,
+      "img": "https://static.zara.net/photos///2022/V/0/1/p/1971/024/620/17/w/1126/1971024620_1_1_1.jpg?ts=1647952574865",
+      "price": "70$",
+      "count": "5",
+      "discount": "",
+      "cat": "jeans",
+      "color": "black"
+    },
+    {
+      "name": "Trousers",
+      "id": 13,
+      "img": "https://static.zara.net/photos///2022/V/0/1/p/1971/024/620/17/w/1126/1971024620_1_1_1.jpg?ts=1647952574865",
+      "price": "70$",
+      "count": "5",
+      "discount": "",
+      "cat": "jeans",
+      "color": "black",
+      "size": "M"
+    }
+  ],
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$vhF7fCcQc3PRJb8zGBK5qe29j6g5KTpbu8tiANZv3Tn/3.vllUh96",
+      "name": "admin",
+      "id": 1
+    }
+  ]
+}
